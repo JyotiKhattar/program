@@ -1,0 +1,7 @@
+C:\Users\Samir\Documents\Project1\Project\Modern Medical\Modern Medical\bin\Debug\Modern Medical.exe
+C:\Users\Samir\Documents\Project1\Project\Modern Medical\Modern Medical\bin\Debug\Modern Medical.pdb
+C:\Users\Samir\Documents\Project1\Project\Modern Medical\Modern Medical\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Samir\Documents\Project1\Project\Modern Medical\Modern Medical\obj\x86\Debug\Modern Medical.exe
+C:\Users\Samir\Documents\Project1\Project\Modern Medical\Modern Medical\obj\x86\Debug\Modern Medical.pdb
+C:\Users\Samir\Documents\New folder\MyProj\Modern Medical\obj\x86\Debug\Modern Medical.exe
+C:\Users\Samir\Documents\New folder\MyProj\Modern Medical\obj\x86\Debug\Modern Medical.pdb
